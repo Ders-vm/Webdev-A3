@@ -330,4 +330,7 @@ footer{
   margin: 10px 0;
 }
 
+input, textarea {
+    border: 2px solid black;
 
+}
